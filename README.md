@@ -1,14 +1,10 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090b,50:171717,100:4f46e5&text=SOURAV%20RAM%20MANI&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20%2F%20LLM%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:171717,100:4f46e5&text=SOURAV%20RAM%20MANI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20%2F%20LLM%20Engineer%20%20%E2%80%A2%20%20Full-Stack%20Developer&descAlignY=62&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<a href="https://github.com/dekuotaku123">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+AI-powered+developer+tools;Fine-tuning+LLMs+with+QLoRA+%2B+DPO;Exploring+RAG+%2B+AI+Agents;Turning+ideas+into+working+software" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+AI-powered+developer+tools;Fine-tuning+LLMs+with+QLoRA+%2B+DPO;Exploring+RAG+%2B+AI+Agents;Building+full-stack+systems;Turning+ideas+into+working+software"/>
 
 <br><br>
 
@@ -21,7 +17,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/souravrammani">
-<img src="https://img.shields.io/badge/LINKEDIN-18181b?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-18181b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srm.deku.ug@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-18181b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -32,41 +32,29 @@
 
 ---
 
-<h2>⚡ ~/about-me</h2>
+## About Me
 
-```bash
-┌──(sourav㉿github)-[~/developer]
-└─$ whoami
+I'm a Computer Science student interested in **AI/ML, LLM engineering,
+developer tooling, and full-stack development**.
 
-Sourav Ram Mani
+I enjoy building systems where AI is actually part of the product rather
+than just being an API call.
 
-┌──(sourav㉿github)-[~/developer]
-└─$ cat mission.txt
+My current interests include:
 
-> Build useful things.
-> Understand how they actually work.
-> Break them.
-> Fix them.
-> Repeat.
-```
+- AI-powered developer tools
+- LLM fine-tuning and preference alignment
+- RAG and AI agents
+- Static code analysis
+- AI-powered testing
+- Local and edge AI
+- Full-stack application development
 
-I'm a Computer Science student focused on **AI/ML, LLM engineering,
-developer tooling and full-stack systems**.
-
-Currently exploring:
-
-```text
-AI Agents        ███████████████████░
-LLM Engineering  ██████████████████░░
-RAG              █████████████████░░░
-Full Stack       ███████████████████░
-System Design    ██████████████░░░░░░
-DSA              ███████████████░░░░░
-```
+> **Build it. Understand it. Break it. Fix it.**
 
 ---
 
-<h2>🔥 Featured Projects</h2>
+# Featured Projects
 
 <table>
 <tr>
@@ -75,39 +63,35 @@ DSA              ███████████████░░░░░
 
 <h3>🔍 CodeImpact Graph</h3>
 
-<p>
-<b>Repository dependency intelligence + visualization</b>
-</p>
+<b>Repository dependency intelligence</b>
 
-<p>
-A local-first static analysis system that recursively maps repository
-dependencies into interactive DAGs.
-</p>
+<br><br>
+
+A local-first static analysis tool that recursively analyzes a codebase
+and turns its dependencies into an interactive graph.
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react"/>
 
 <br><br>
 
-<a href="https://github.com/dekuotaku123/CodeImpact-Graph">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<b>Key features</b>
 
-<br><br>
-
-<details>
-<summary>What makes it interesting?</summary>
+- Custom AST parser
+- Stateful code traversal
+- OOP method resolution
+- Interactive dependency graphs
+- React Flow + Dagre
+- 1,000+ node rendering
+- Local LLM analysis with Ollama
+- Source-code inspection
 
 <br>
 
-• Custom AST parser  
-• Stateful traversal  
-• OOP method resolution  
-• 1,000+ node graph rendering  
-• React Flow + Dagre  
-• Ollama / local LLM integration  
-• Source-code inspection
-
-</details>
+<a href="https://github.com/dekuotaku123/CodeImpact-Graph">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -115,40 +99,36 @@ dependencies into interactive DAGs.
 
 <h3>🤖 AI Testing Automation Agent</h3>
 
-<p>
-<b>AI-powered end-to-end browser testing</b>
-</p>
+<b>AI-powered browser testing</b>
 
-<p>
-Connect a GitHub repository, understand its routes, generate browser
-tests and execute them in real cloud browsers.
-</p>
+<br><br>
+
+A full-stack platform that connects to GitHub repositories,
+understands application routes, generates E2E tests and executes
+them in cloud browsers.
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,postgres"/>
 
 <br><br>
 
-<a href="https://github.com/dekuotaku123/AI-Testing-Automation-Agent">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<b>Key features</b>
 
-<br><br>
-
-<details>
-<summary>What makes it interesting?</summary>
+- GitHub OAuth
+- Automatic route discovery
+- AI-generated E2E tests
+- Browserbase execution
+- DOM snapshots
+- Video session replay
+- Failure diagnostics
+- Usage-based billing
 
 <br>
 
-• GitHub OAuth  
-• Automatic route discovery  
-• AI-generated E2E tests  
-• Browserbase execution  
-• DOM snapshots  
-• Video session replay  
-• Failure diagnostics  
-• Stripe-based credits
-
-</details>
+<a href="https://github.com/dekuotaku123/AI-Testing-Automation-Agent">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -160,40 +140,35 @@ tests and execute them in real cloud browsers.
 
 <h3>🧠 Style-Aligned Code Review Assistant</h3>
 
-<p>
-<b>LLM fine-tuning + developer feedback</b>
-</p>
-
-<p>
-A specialized code review model trained to provide constructive,
-style-aware feedback.
-</p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,python"/>
+<b>LLM fine-tuning + preference alignment</b>
 
 <br><br>
 
-<a href="https://github.com/dekuotaku123/RAG-Code-Reviewer">
-<img src="https://img.shields.io/badge/QLORA%20%2B%20DPO-18181b?style=for-the-badge"/>
-</a>
+A specialized code-review model designed to provide constructive,
+style-aware developer feedback.
 
 <br><br>
 
-<details>
-<summary>What makes it interesting?</summary>
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
+
+<br><br>
+
+<b>Key features</b>
+
+- QLoRA
+- Unsloth
+- PEFT
+- 4-bit quantization
+- DPO
+- Custom preference dataset
+- GGUF deployment
+- FastAPI inference
 
 <br>
 
-• QLoRA  
-• Unsloth  
-• PEFT  
-• 4-bit quantization  
-• DPO preference alignment  
-• Custom preference dataset  
-• GGUF edge deployment  
-• FastAPI inference backend
-
-</details>
+<a href="https://github.com/dekuotaku123/RAG-Code-Reviewer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -201,19 +176,23 @@ style-aware feedback.
 
 <h3>🧩 RAG Code Reviewer</h3>
 
-<p>
 <b>Context-aware AI code analysis</b>
-</p>
 
-<p>
-Exploring retrieval and LLM-based reasoning for more contextual
-developer feedback.
-</p>
+<br><br>
+
+Exploring retrieval-augmented generation for contextual
+developer assistance and code understanding.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RAG-4f46e5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-18181b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-18181b?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://github.com/dekuotaku123/RAG-Code-Reviewer">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -223,43 +202,59 @@ developer feedback.
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+# Tech Stack
 
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
-
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
-
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-<h3>AI / ML</h3>
+### Languages
 
 <p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=pytorch" />
+
 <img src="https://img.shields.io/badge/LLMs-18181b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-18181b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/QLoRA-18181b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DPO-18181b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PEFT-18181b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-18181b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-18181b?style=for-the-badge"/>
+
 </p>
 
-<h3>Databases / Tools</h3>
+### Databases & Tools
+
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode,vercel,netlify" />
+</p>
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+# GitHub Stats
 
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=dekuotaku123&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
+src="https://github-readme-stats.vercel.app/api?username=dekuotaku123&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekuotaku123&layout=compact&hide_border=true&theme=tokyonight" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekuotaku123&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
@@ -267,64 +262,87 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekuotaku123
 
 <div align="center">
 
-<img width="70%"
-src="https://streak-stats.demolab.com?user=dekuotaku123&theme=tokyonight&hide_border=true" />
+<img
+src="https://streak-stats.demolab.com?user=dekuotaku123&theme=tokyonight&hide_border=true"
+width="70%"/>
 
 </div>
 
 ---
 
-<h2>📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dekuotaku123&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-<h2>🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dekuotaku123/dekuotaku123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dekuotaku123/dekuotaku123/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dekuotaku123/dekuotaku123/output/github-contribution-grid-snake.svg" width="95%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dekuotaku123/dekuotaku123/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dekuotaku123/dekuotaku123/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/dekuotaku123/dekuotaku123/output/github-contribution-grid-snake.svg"
+    width="95%">
 </picture>
 
 </div>
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+# Currently Exploring
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dekuotaku123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+<table>
+<tr>
+
+<td align="center" width="180">
+
+### 🤖
+**AI Agents**
+
+</td>
+
+<td align="center" width="180">
+
+### 🧠
+**LLM Fine-Tuning**
+
+</td>
+
+<td align="center" width="180">
+
+### 🔎
+**RAG**
+
+</td>
+
+<td align="center" width="180">
+
+### 🧪
+**AI Testing**
+
+</td>
+
+<td align="center" width="180">
+
+### ⚙️
+**Developer Tools**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<h2>🚧 Currently Building</h2>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   > AI Agents                                                │
-│   > LLM Fine-Tuning                                          │
-│   > RAG Pipelines                                            │
-│   > AI Developer Tools                                       │
-│   > Intelligent Testing Systems                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-<h2>🎓 Certifications</h2>
+# 🎓 Certifications
 
 | Certification | Platform |
 |---|---|
@@ -335,7 +353,7 @@ src="https://streak-stats.demolab.com?user=dekuotaku123&theme=tokyonight&hide_bo
 
 ---
 
-<h2>🌐 Find Me</h2>
+# 📫 Connect
 
 <div align="center">
 
@@ -348,12 +366,13 @@ src="https://streak-stats.demolab.com?user=dekuotaku123&theme=tokyonight&hide_bo
 </a>
 
 <a href="mailto:srm.deku.ug@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-18181b?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-srm.deku.ug%40gmail.com-18181b?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by.;Now+go+build+something+cool." />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+things+that+make+developers+faster.;Exploring+what+AI+can+actually+do." />
 
 </div>
 
